@@ -1,0 +1,129 @@
+body{
+	margin: auto;
+    background: #FEF4DC;
+    max-width: 960px;
+    padding: 50px;
+ }
+
+ .site-banner {
+ 	border: 8px solid black;
+    border-color: #730C05;
+ 	padding: 5px;
+ 	text-align: center;
+    margin-top: 8px;
+    margin-bottom: 8px;
+    background: #12317E;
+    font-family: Baskerville, serif;
+    font-style: bold;
+    font-size: 26px;
+    color: whitesmoke;
+ }
+
+ img{ 
+ width:100px
+  }
+
+.article{
+    max-width: 900px;
+}
+
+.story-header{
+    font-family: Gils Sans, sans-serif;
+    font-size: 22px;
+}
+
+.sub-header{
+    font-size: 19px;
+    font-family: gils sans, sans-serif;
+}
+
+h1{
+    size: 46px;
+    margin-bottom: 0px;
+}
+
+.byline{
+    font-style: bold;
+    font-size: 17px;
+}
+
+.stadium{
+    width: 100%;
+    text-align:center ;
+}
+
+.photo-caption{
+    color: #595A5A;
+    font-size: 14px;
+    margin-top: 0px;
+}
+
+.story-copy{
+    font-family: Times New Roman, sans-serif;
+    font-size: 20px;
+}
+
+.abreu{
+    width: 100%;
+    text-align:center ;
+}
+
+.voit{
+    width: 100%;
+    text-align:center ;
+}
+
+iframe{
+    background: transparent;
+    padding: 6px;
+    width: 100%;
+    border: 6px, solid black;
+}
+
+.altuve{
+    width: 100%;
+    text-align:center ;
+}
+
+.dodgers{
+    width: 100%;
+    text-align:center ;
+}
+
+a{
+    color: black;
+    font-style: bold;
+}
+
+a:hover{
+    color: #12317E;
+    text-decoration-color: #730C05;
+}
+
+h3{
+    font-family: Baskerville, serif;
+    font-style: bold;
+    font-size: 35px;
+    color: #12317E;
+    letter-spacing: 1px;
+}
+h2{
+    font-size: 25px;
+}
+
+
+.footer{
+    font-family: Basier, sans-serif;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.footer-info{
+    color: gray;
+    font-size: 12px;
+}
+
+
+
+
+
